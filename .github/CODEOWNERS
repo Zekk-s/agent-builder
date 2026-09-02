@@ -1,0 +1,10 @@
+# Default owners for everything not matched below
+* @Zekiog
+
+# Canvas + node catalog
+/frontend/src/components/ @Zekiog
+/frontend/src/store/ @Zekiog
+
+# Meta
+/AGENTS.md @Zekiog
+/README.md @Zekiog
