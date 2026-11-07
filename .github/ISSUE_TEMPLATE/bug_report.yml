@@ -1,17 +1,17 @@
 name: Bug Report
-description: Report broken behavior or unexpected output from agent-builder.
+description: Report broken behavior in this repository.
 labels: ["bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to file a bug. Complete the template below.
+        Thanks for filing a bug. The app is the Vite page in `frontend/`.
 
   - type: input
     id: summary
     attributes:
       label: One-line summary
-      placeholder: e.g. Cannot delete edge after multi-select
+      placeholder: e.g. Dropped catalog item does not show on the canvas
     validations:
       required: true
 
